@@ -1,6 +1,5 @@
 <p align="center">
-    <h2 align="center">Producto Escalar de Vectores
-    </h2>
+    <h2 align="center">Producto Escalar de Vectores </h2>
 </p>
 
 <div align="center">
