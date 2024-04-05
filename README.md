@@ -1,4 +1,4 @@
-﻿<p align="center">
+<p align="center">
     <h2 align="center">Producto Escalar de Vectores
     </h2>
 </p>
@@ -74,8 +74,23 @@ El producto de escalas es una operación binaria definida en el espacio euclidia
 
 ## Ejercicio resuelto
 
-**A=[2,−3,1]** y **B=[5,4,−2]** 
+Dados los vectores **a=[2,−3,1]** y **𝑏=[5,4,−2]** calcula su producto de escalas.
 
+
+#### Solución:
+
+**a⋅b** =(2×5)+(−3×4)+(1×−2)  
+=10−12−2  
+=−4  
+​
+
+Entonces, el producto de escalas entre los vectores 𝑎a y 𝑏b es −4.
+
+
+----
+
+
+**Guía para resolver el ejercicio de Producto Escalar de Vectores:**
 
 **Descripción del ejercicio:**
 Calcular el producto escalar de dos vectores dados,**a=[2,−3,1]** y **𝑏=[5,4,−2]**
@@ -101,7 +116,7 @@ Interpretar el resultado obtenido como el producto escalar de los vectores **a**
 =10−12−2
  =−4=−4
 
-
+**Conclusión:**
 El producto escalar entre los vectores 𝑎a y 𝑏b es :**-4.**
 
 
@@ -155,5 +170,4 @@ Dados los vectores a=[4,−2,1] y 𝑏=[0,3,5]b=[0,3,5], calcula su producto de 
 ​
 
 Entonces, el producto de escalas entre los vectores 𝑎a y 𝑏b es **−1**
-
 
