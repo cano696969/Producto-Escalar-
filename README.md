@@ -24,37 +24,6 @@ El producto escalar de vectores, esencial en álgebra lineal, calcula la relaci�
  
 </div>
 
----
-
-
-
-
-
-
-
-
-
-
-
-<div align="center"><strong>Desarrollado Juegos  2D & 3D <a href="https://reactjs.org/">Unity </a> juego de plataforma 2D que ofrece una experiencia única con gráficos cautivadores</strong><br>El código fuente está disponible para que puedas descargarlo y configurarlo.
-
-
-
-
-
-
-
-
-
-
-<div align="center">
-
-</div>
-
-</div>
-
-<br/>
-
 
 -----------
 
