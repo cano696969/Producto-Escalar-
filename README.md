@@ -56,11 +56,11 @@ El producto de escalas es una operación binaria definida en el espacio euclidia
 
 ![a \cdot b= \sum \limits_ {i=1}^n a_i b_i](https://www.gstatic.com/education/formulas2/553212783/en/dot_product.svg)
 
-**a**	=	1er vector
-**b**	=	2do vector
-**n**	=	dimensión del espacio vectorial
-**ai**	=	componente del vector a
-**bi**	=	componente del vector b
+a = 1er vector
+b = 2do vector
+n = dimensión del espacio vectorial
+ai = componente del vector a
+bi = componente del vector b
 
 ## Propiedades del Producto Escalar
 
@@ -74,7 +74,7 @@ El producto de escalas es una operación binaria definida en el espacio euclidia
 -   **Geometría:** Permite encontrar el ángulo entre dos vectores y determinar si son paralelos, perpendiculares o inclinados.
 -   **Ingeniería:** Se emplea en el diseño y análisis de estructuras, sistemas de control y gráficos por computadora.
 
-## Ejercicio resuelto
+## Ejercicio a resolver
 
 Dados los vectores **a=[2,−3,1]** y **𝑏=[5,4,−2]** calcula su producto de escalas.
 
