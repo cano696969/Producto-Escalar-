@@ -1,12 +1,14 @@
+
+<p align="center">  
+  <h2 align="center"> Producto Escalar de Vectores </h2>
+
+<p/>
+<div class="slider-container" style="width: 70%; margin: auto;">
+
 <p align="center">
-    <h2 align="center">Producto Escalar de Vectores </h2>
-</p>
+El producto escalar de vectores, esencial en álgebra lineal, calcula la relación entre dos vectores mediante la multiplicación de sus componentes correspondientes y su suma. Este producto ofrece información sobre la dirección y magnitud relativa de los vectores, aplicándose en física, geometría e informática para diversas aplicaciones matemáticas y científicas..</p>
 
-<div align="center">
-    <p align="center">El producto escalar de vectores, esencial en álgebra lineal, calcula la relación entre dos vectores mediante la multiplicación de sus componentes correspondientes y su suma. Este producto ofrece información sobre la dirección y magnitud relativa de los vectores, aplicándose en física, geometría e informática para diversas aplicaciones matemáticas y científicas..</p>
-    
 
-</p>
 <div>
     <p align="center">
         <a href="#">
@@ -18,11 +20,43 @@
         <a href="#">
             <img src="https://img.shields.io/badge/Ingeniería%20Mecánica-Dinámica%20de%20Cuerpos%20Rígidos-blue?style=for-the-badge&logo=autodesk" alt="Ingeniería Mecánica Dinámica de Cuerpos Rígidos">
         </a>
-        <a href="#">
-            <img src="https://img.shields.io/badge/Ingeniería%20Eléctrica-Sistemas%20de%20Control-orange?style=for-the-badge&logo=autodesk" alt="Ingeniería Eléctrica Sistemas de Control">
-        </a>
+    
  
 </div>
+
+---
+
+
+
+
+
+
+
+
+
+
+
+<div align="center"><strong>Desarrollado Juegos  2D & 3D <a href="https://reactjs.org/">Unity </a> juego de plataforma 2D que ofrece una experiencia única con gráficos cautivadores</strong><br>El código fuente está disponible para que puedas descargarlo y configurarlo.
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+
+</div>
+
+</div>
+
+<br/>
+
+
+-----------
 
 ## Syllabus 
 
@@ -38,17 +72,18 @@
 	- [Ejercicio 3](#ejercicio-3)
 
 
+-----
+
 ## Introducción
 El producto de escalas en vectores, también conocido como producto punto o producto escalar, es una operación fundamental en matemáticas y física. Se utiliza para medir cómo dos vectores están relacionados entre sí en términos de magnitud y dirección. En esta investigación, exploraremos en detalle qué es el producto de escalas, cómo se calcula, sus propiedades y algunas de sus aplicaciones en diversos campos.
 
 ## ¿Qué es el Producto de Escalas en Vectores?
 
+
 El producto de escalas es una operación binaria definida en el espacio euclidiano tridimensional que toma dos vectores y produce un escalar. Esta operación se denota comúnmente con el símbolo "·" o simplemente omitiendo el operador. Siendo A y B dos vectores en un espacio euclidiano tridimensional, el producto de escalas se calcula como:
 
 
-
 ## Fórmula
-
 
 ![a \cdot b= \sum \limits_ {i=1}^n a_i b_i](https://www.gstatic.com/education/formulas2/553212783/en/dot_product.svg)
 
@@ -58,14 +93,13 @@ El producto de escalas es una operación binaria definida en el espacio euclidia
 **ai**	=	componente del vector a
 **bi**	=	componente del vector b
 
-
 ## Propiedades del Producto Escalar
 
 -   **Conmutatividad:** a⋅b=b⋅a
 -   **Distributividad:** c(a+b)=ca+cb
 -   **Asociatividad:** (a⋅b)⋅c=a⋅(b⋅c)
 
-## Aplicaciones del Producto Escalar
+-   ## Aplicaciones del Producto Escalar
 
 -   **Física:** Se usa para calcular el trabajo realizado por una fuerza sobre un objeto.
 -   **Geometría:** Permite encontrar el ángulo entre dos vectores y determinar si son paralelos, perpendiculares o inclinados.
@@ -125,7 +159,7 @@ El Producto de Escalas en Vectores es una herramienta poderosa que nos permite c
 
 ----
 
-### Ejercicio 1:
+## Ejercicio 1:
 
 Dados los vectores a=[2,−3,1] y 𝑏=[5,4,−2]b=[5,4,−2] calcula su producto de escalas.
 
@@ -141,7 +175,7 @@ Entonces, el producto de escalas entre los vectores 𝑎a y 𝑏b es **−4.**
 
 ----
 
-### Ejercicio 2:
+## Ejercicio 2:
 
 Dados los vectores𝑎=[1,0,−1]a=[1,0,−1] y 𝑏=[3,2,1]b=[3,2,1], calcula su producto de escalas.
 
@@ -169,4 +203,5 @@ Dados los vectores a=[4,−2,1] y 𝑏=[0,3,5]b=[0,3,5], calcula su producto de 
 ​
 
 Entonces, el producto de escalas entre los vectores 𝑎a y 𝑏b es **−1**
+
 
